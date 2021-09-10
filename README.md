@@ -1,5 +1,5 @@
 # NASAGallery
- * 語言
+* 語言
   * Kotlin
 * 架構
   * MVVM
